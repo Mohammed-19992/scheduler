@@ -17,9 +17,9 @@ https://mohammed-19992.github.io/scheduler/
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 https://github.com/Mohammed-19992/scheduler
 
-MIT License
+##MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2020] [Mohammed Arafat]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
