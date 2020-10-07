@@ -4,7 +4,8 @@ When the user views the timeblocks of the current day, each timeblock is color-c
 
 
 ## screenshot of the project:
-https://github.com/Mohammed-19992/scheduler/blob/master/Screen%20Shot%202020-09-14%20at%2012.46.55%20PM.png
+<img width="1280" alt="planner" src="https://user-images.githubusercontent.com/67847324/95347512-f5f64a80-088a-11eb-9c9d-8dfe27a8f4ee.png">
+
 
 ## Review
 
